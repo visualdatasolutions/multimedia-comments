@@ -39,6 +39,7 @@ Features of premium version:
 * allow file upload on pages or posts meeting preset conditions, or specific page/post.
 * posting comments before registering an account, if configured this way.
 * support comments on custom post type
+* honeypot to fight against comment spam
 
 
 
