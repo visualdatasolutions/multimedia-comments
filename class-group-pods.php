@@ -1,14 +1,6 @@
 <?php 
 
-/*
-Package Name: CIO Custom Field Groups Free
-Plugin URI: http://vipp.com.au/cio-custom-fields-importer/custom-field-groups-for-pods/
-Description: 
-Author: <a href="http://vipp.com.au">VisualData</a>
-Version: 1.0.0
-License: GPLv2 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-*/
+
 
 // Prohibit direct script loading.
 defined( 'ABSPATH' ) || die( 'No direct script access allowed!' );
